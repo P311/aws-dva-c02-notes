@@ -39,6 +39,9 @@ If the upload is successful, the application will return a prompt telling the us
 Which of the following is the MOST suitable and cost-effective option which will prevent the application from being unresponsive?
 
 A. Configure the application to asynchronously process the requests and use the default invocation type of the Lambda function.
+
 B. Use AWS Serverless Application Model (AWS SAM) to allow asynchronous requests to your Lambda function.
+
 C. Configure the application to asynchronously process the requests and change the invocation type of the Lambda function to Event.
+
 D. Use a combination of Lambda and Step Functions to orchestrate service components and asynchronously process the requests.
